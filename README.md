@@ -1,4 +1,4 @@
-# vue-nuxt-storybook-msw-sample
+# vue-nuxt-mirage-sample
 
 ## Build Setup
 
